@@ -18,8 +18,8 @@ public class Main {
         double secondBoxer = 82.7;
         double weightOfBothBoxers = firstBoxer + secondBoxer;
         double weightDifference = secondBoxer - firstBoxer;
-        System.out.println ("Weight of both boxers " + weightOfBothBoxers);
-        System.out.println ("Difference in weight " + weightDifference);
+        System.out.println ("Weight of both boxers " + weightOfBothBoxers + "kilos");
+        System.out.println ("Difference in weight " + weightDifference + "kilos");
 
     // Задание №3
         int banana = 80;
